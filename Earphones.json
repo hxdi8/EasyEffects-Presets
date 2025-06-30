@@ -1,15 +1,15 @@
 {
     "output": {
         "bass_enhancer#0": {
-            "amount": 1.4999999999999996,
-            "blend": 3.0,
+            "amount": 4.999999999999998,
+            "blend": 0.0,
             "bypass": false,
             "floor": 10.0,
-            "floor-active": true,
+            "floor-active": false,
             "harmonics": 9.999999999999995,
             "input-gain": 0.0,
             "output-gain": 0.0,
-            "scope": 100.0
+            "scope": 150.0
         },
         "blocklist": [],
         "compressor#0": {
@@ -65,7 +65,7 @@
             "left": {
                 "band0": {
                     "frequency": 25.848931924611133,
-                    "gain": 6.0,
+                    "gain": 5.54,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 2.209713863811956,
@@ -76,7 +76,7 @@
                 },
                 "band1": {
                     "frequency": 40.96779623970693,
-                    "gain": 3.65,
+                    "gain": 3.39,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 2.209713863811956,
@@ -237,7 +237,7 @@
             "right": {
                 "band0": {
                     "frequency": 25.848931924611133,
-                    "gain": 6.0,
+                    "gain": 5.54,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 2.209713863811956,
@@ -248,7 +248,7 @@
                 },
                 "band1": {
                     "frequency": 40.96779623970693,
-                    "gain": 3.65,
+                    "gain": 3.39,
                     "mode": "RLC (BT)",
                     "mute": false,
                     "q": 2.209713863811956,
